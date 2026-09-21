@@ -184,3 +184,5 @@ def main() -> int:
 
 
 if __name__=='__main__':raise SystemExit(main())
+
+# Isolated CI path positive control; no runtime change.
